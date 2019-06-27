@@ -8,4 +8,4 @@ Para cada item listado abaixo, explique com suas palavras o que é e qual a rele
 * Integração contínua
 
 
-Adicione sua resposta em um arquivo com extenção .txt cujo o nome é o número do seu RA. Ex: 618899.txt. Faça um pull request com sua resposa pra esse repositório.
+Adicione sua resposta em um arquivo com extensão .txt cujo o nome é o número do seu RA. Ex: 618899.txt. Faça um pull request com sua resposa pra esse repositório.
